@@ -1,0 +1,20 @@
+JUST CODE TEST README
+
+Create a test to make sure the app sends the right query to the user giving options to complete transaction and print receipt or continue with options: 
+
+and test that if done with transaction the correct balance is returned.
+
+1) round up to the next dollar amount. Check interface options 
+
+//test to ensure that the options chosen match what user picks, and returns the correct amount.
+
+2) round up by dollar amount? same options in interface?
+
+3) choose percentage of purchase they want to add?
+to add to interface choices?
+
+interfaces for each class.
+a. put into savings, b. put into checking, c. donate to charity d. send to family member e. put into mutual fund
+
+
+
