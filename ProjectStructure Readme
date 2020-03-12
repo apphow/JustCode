@@ -11,4 +11,5 @@ The initial development stage would involve creating the UML, the user interface
 Future functionality
 The app could provide access to a database which stores customer account profile data, balance, fund choices.
 It could also track the progress of the chosen fund from real market data, and return the resulting change in value to balance. 
-The app might also give the option to add a new fund or charity
+The app might also give the option to add a new fund or charity.
+
