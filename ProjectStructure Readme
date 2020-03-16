@@ -1,0 +1,15 @@
+JUST CODE README
+
+Create a financial app which interacts with a user at a Point of Sale terminal. 
+The app scans the user’s purchase total, and gives the option to round up to the next whole dollar (or other specified figure)
+The app then provides a menu of options of where to send the extra funds. The funds could be sent to a savings account, a  charity, a mutual fund or other investment. 
+The app would also print a receipt showing the value of the original bill, the rounded up value, and how much was
+ committed to each account. 
+The initial development stage would involve creating the UML, the user interface, and the functionality of adding and subtracting dollar amounts. 
+
+
+Future functionality
+The app could provide access to a database which stores customer account profile data, balance, fund choices.
+It could also track the progress of the chosen fund from real market data, and return the resulting change in value to balance. 
+The app might also give the option to add a new fund or charity.
+
