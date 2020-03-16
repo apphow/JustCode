@@ -1,0 +1,15 @@
+JUST CODE TEST README
+
+*Create a test to ensure the console displays customer name, 
+bill Amount, Fund Name and new Total. 
+
+
+* Create test to ensure the console sends the right query to the user giving options to 
+complete transaction and print receipt or continue with options: 
+and test that if done with transaction the correct balance is returned.
+
+*test to ensure that the options chosen match what user picks, and returns the correct amount.
+
+*Ensure each of the methods for manipulating and accessing class fields have 
+appropriate testing.
+
