@@ -1,11 +1,13 @@
 package java;
+//TODO All these items should be in some kind of user interaction class, not the main.
+//TODO But I'm not sure which class in the new structure serves the UI purpose.
 
 import java.util.Scanner;
 
 public class MainApplication {
     public static void main(String[] args) {
         Double billAmount;
-//Not sure how to get shopping receipt total. Ask user? Get from other method?
+//TODO Not sure how to get shopping receipt total. Ask user? Get from other method?
         Scanner myObj = new Scanner(System.in);
         String fundName;
         Float initialTotal;
